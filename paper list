@@ -1,0 +1,65 @@
+No. Year paper
+1  2017 Detection of Repackaged Android Malware with Code-Heterogeneity Features
+2  2017 The Multi-Generation Repackaging Hypothesis
+3  2017 SimiDroid: Identifying and Explaining Similarities in Android Apps
+4  2017 On Locating Malicious Code in Piggybacked Android Apps
+5  2017 Automatically Locating Malicious Packages in Piggybacked Android Apps
+6  2017 Understanding Android App Piggybacking: A Systematic Study of Malicious Code Grafting
+7  2017 Detecting Mobile Application Spoofing Attacks by Leveraging User Visual Similarity Perception
+8  2017 RepDroid: An Automated Tool for Android Application Repackaging Detection
+9  2017 Scalable and Obfuscation-Resilient Android App Repackaging Detection Based on Behavior Birthmark
+10  2017 Effective and scalable repackaged application detection based on user interface
+11  2016 Semantics-Based Repackaging Detection for Mobile Apps
+12  2016 Analysis of Code Heterogeneity for High-Precision Classification of Repackaged Malware
+13  2016 Detecting Plagiarized Mobile Apps Using API Birthmarks
+14  2016 Ungrafting malicious code from piggybacked android apps
+15  2016 On automatically detecting similar android apps
+16  2016 Mobile Application Impersonation Detection Using Dynamic User Interface Extraction
+17  2016 Analyzing Android Repackaged Malware by Decoupling Their Event Behaviors
+18  2016 Measuring code reuse in Android apps
+19  2016 A Framework for Third Party Android Marketplaces to Identify Repackaged Apps
+20  2016 Repackaged apps detection based on similarity evaluation
+21  2015 Detection of repackaged mobile applications through a collaborative approach
+22  2015 Detecting Android Malware Using Clone Detection
+23  2015 Exploring reverse engineering symptoms in Android apps
+24  2015 Erratum: A Rapid and Scalable Method for Android Application Repackaging Detection
+25  2015 Finding unknown malice in 10 seconds: mass vetting for new threats at the google-play scale
+26  2015 DroidEagle: Seamless Detection of Visually Similar Android Apps
+27  2015 Detecting Clones in Android Applications Through Analyzing User Interfaces
+28  2015 What Are the Characteristics of High-rated Apps? A Case Study on Free Android Applications
+29  2015 Wukong: A scalable and accurate two-phase approach to android app clone detection
+30  2015 Detect Repackaged Android Application Based on HTTP Traffic Similarity
+31  2015 An Online Approach for Detecting Repackaged Android Applications Based on Multi-user Collaboration
+32  2015 Achieving accuracy and scalability simultaneously in detecting application clones on android markets
+33  2015 AnDarwin: Scalable Detection of Android Application Clones Based on Semantics
+34  2014 Droidlegacy: Automated familial classification of android malware
+35  2014 Viewdroid: towards obfuscation-resilient mobile application repackaging detection
+36  2014 Droidkin: Lightweight detection of android apps similarity
+37  2014 Detecting camouflaged applications on mobile application markets
+38  2014 Revisiting android reuse studies in the context of code obfuscation and library usages
+39  2014 Reducing the impact of repackaged app on Android
+40  2014 A large-scale empirical study on software reuse in mobile apps
+41  2014 Droidmarking: Resilient software watermarking for impeding android application repackaging
+42  2014 Detection of repackaged android malware
+43  2014 Towards a Scalable Resource-driven Approach for Detecting Repackaged Android Applications
+44  2014 Detecting code reuse in android applications using component-based control flow graph
+45  2014 MIGDroid: Detecting APP-Repackaging Android Malware via Method Invocation Graph
+46  2014 FSquaDRA: fast detection of repackaged applications
+47  2014 DIVILAR: Diversifying Intermediate Language for Anti-Repackaging on Android Platform
+48  2014 MysteryChecker: Unpredictable attestation to detect repackaged malicious applications in Android
+49  2014 An efficient method of detecting repackaged android applications
+50  2013 Andarwin: Scalable detection of semantically similar android applications
+51  2013 AdRob: examining the landscape and impact of android application plagiarism
+52  2013 Characterizing android application plagiarism and its impact on developers
+53  2013 A Framework for Evaluating Mobile App Repackaging Detection Algorithms
+54  2013 Juxtapp: A Scalable System for Detecting Code Reuse Among Android Applications
+55  2013 Identifying Android Malicious Repackaged Applications by Thread-grained System Call Sequences
+56  2013 Sweetening android lemon markets: measuring and combating malware in application marketplaces
+57  2013 Fast, Scalable Detection of Piggybacked Mobile Applications
+58  2013 AppInk: watermarking android apps for repackaging deterrence
+59  2013 DroidOLytics: Robust Feature Signature for Repackaged Android Apps on Official and Third Party Android Markets
+60  2012 Attack of the clones: Detecting cloned applications on android markets
+61  2012 Android: Static analysis using similarity distance
+62  2012 Plagiarizing smartphone applications: attack strategies and defense techniques
+63  2012 Understanding reuse in the android market
+64  2012 DroidMOSS:Detecting Repackaged Smartphone Applications in Third-party Android Marketplaces
